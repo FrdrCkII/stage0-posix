@@ -34,3 +34,6 @@
 [submodule "riscv64"]
 	path = riscv64
 	url = https://github.com/oriansj/stage0-posix-riscv64.git
+[submodule "loongarch64"]
+	path = loongarch64
+	url = https://codeberg.org/FrdrCkII/stage0-posix-loongarch64.git
